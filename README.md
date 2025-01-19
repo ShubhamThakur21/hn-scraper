@@ -1,4 +1,4 @@
-#**Hacker News Scraper**
+# **Hacker News Scraper**
 
 A Node.js-based backend service to scrape real-time stories from [Hacker News](https://news.ycombinator.com/), broadcast real-time updates via WebSocket, and expose APIs to access the scraped data.
 
