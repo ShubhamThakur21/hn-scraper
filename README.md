@@ -1,4 +1,4 @@
-**Hacker News Scraper**
+#**Hacker News Scraper**
 
 A Node.js-based backend service to scrape real-time stories from [Hacker News](https://news.ycombinator.com/), broadcast real-time updates via WebSocket, and expose APIs to access the scraped data.
 
@@ -222,22 +222,31 @@ hn-scraper/
 
 ---
 
-## **Contributing**
 
-1. Fork the repository.
-2. Create a new branch:
-   ```bash
-   git checkout -b feature-name
-   ```
-3. Commit your changes:
-   ```bash
-   git commit -m "Add feature"
-   ```
-4. Push to the branch:
-   ```bash
-   git push origin feature-name
-   ```
-5. Open a pull request.
+### **Learning Outcomes**
+
+This project demonstrates how to build a backend service with real-time features using Node.js. Key takeaways include:
+
+1. **Web Scraping**:  
+   Learned how to efficiently scrape data from external APIs and handle structured data storage in a database.
+
+2. **WebSocket Communication**:  
+   Implemented real-time updates to clients, showcasing how WebSocket technology can enhance the user experience.
+
+3. **Authentication with JWT**:  
+   Secured APIs using JWT tokens, reinforcing the importance of authentication in modern applications.
+
+4. **Database Integration**:  
+   Designed and integrated a MySQL database to handle and manage structured data efficiently.
+
+This project provides a strong foundation for building scalable, secure, and real-time web applications.
 
 ---
 
+### **Acknowledgments**
+
+This project was developed as part of the **FrontPage Backend Intern Assignment**. Special thanks to the Hacker News community for providing an excellent API for educational purposes.
+
+If you have suggestions for improving this project or would like to discuss it further, feel free to reach out.
+
+---
